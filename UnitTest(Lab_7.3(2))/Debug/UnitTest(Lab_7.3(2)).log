@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest(Lab_7.3(2)).cpp
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_7.3(2)\Lab_7.3(2)\Lab_7.3(2).cpp(94): warning C4715: 'matriz_sum': not all control paths return a value
+     Creating library E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_7.3(2)\Debug\UnitTest(Lab_7.3(2)).lib and object E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_7.3(2)\Debug\UnitTest(Lab_7.3(2)).exp
+  UnitTest(Lab_7.3(2)).vcxproj -> E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_7.3(2)\Debug\UnitTest(Lab_7.3(2)).dll
